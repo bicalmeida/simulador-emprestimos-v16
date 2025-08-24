@@ -1,5 +1,5 @@
 Simulador de Empréstimos - Angular 16+
-Uma aplicação completa para simulação de empréstimos desenvolvida em Angular 19+ com API mock usando JSON Server.
+Uma aplicação completa para simulação de empréstimos desenvolvida em Angular 16+ com API mock usando JSON Server.
 
 
 🔗 **Repositório**: [https://github.com/bicalmeida/simulador-emprestimos-v16](https://github.com/bicalmeida/simulador-emprestimos-v16)
