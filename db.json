@@ -1,0 +1,23 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Empréstimo Pessoal",
+      "taxaAnual": 18,
+      "prazoMaximo": 24
+    },
+    {
+      "id": "2",
+      "nome": "Empréstimo Auto",
+      "taxaAnual": 11,
+      "prazoMaximo": 12
+    },
+    {
+      "id": "3",
+      "nome": "Crédito Caixa Habitação",
+      "taxaAnual": 14.5,
+      "prazoMaximo": 360
+    }
+  ],
+  "simulacoes": []
+}

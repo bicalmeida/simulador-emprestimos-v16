@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "projeto-teste": {
+    "simulador-emprestimos": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/projeto-teste",
+            "outputPath": "dist/simulador-emprestimos",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "projeto-teste:build:production"
+              "browserTarget": "simulador-emprestimos:build:production"
             },
             "development": {
-              "browserTarget": "projeto-teste:build:development"
+              "browserTarget": "simulador-emprestimos:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "projeto-teste:build"
+            "browserTarget": "simulador-emprestimos:build"
           }
         },
         "test": {
